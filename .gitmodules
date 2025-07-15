@@ -1,0 +1,9 @@
+[submodule "PPT-token-filecoin"]
+	path = PPT-token-filecoin
+	url = https://github.com/virtualvasu/PPT-token-filecoin.git
+[submodule "Invoice-storage-storacha"]
+	path = Invoice-storage-storacha
+	url = https://github.com/virtualvasu/Invoice-storage-storacha.git
+[submodule "PPTToken-gated-filecoin"]
+	path = PPTToken-gated-filecoin
+	url = https://github.com/virtualvasu/PPTToken-gated-filecoin.git
